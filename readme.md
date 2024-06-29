@@ -4,12 +4,6 @@
 
 可以压缩pdf、txt、mp4等多种文件。
 
-示例：
-
-![](file:///C:/Users/Lenovo/Desktop/liz.jpg)
-
- ![](file:///C:/Users/Lenovo/Desktop/good.jpg)
-
-![](file:///C:/Users/Lenovo/Desktop/good1.jpg)
+请提前安装好zip库：sudo apt-get install zlib1g-dev
 
 对于文件压缩的优化敬请期待！软件图像界面敬请期待！
